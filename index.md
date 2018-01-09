@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
-title: Welcome to Jennifer and Taylor's page!
-description: Feel free to bookmark this to keep an eye on our project updates.
+Welcome to Jennifer and Taylor's page!
+Feel free to bookmark this to keep an eye on our project updates.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
